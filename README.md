@@ -25,6 +25,12 @@ To even begin designing intergalactic rockets, humanity would need monumental br
 
 #
 
+![Apollo 10](https://github.com/user-attachments/assets/3fcff7ea-5c0a-4aa0-9201-0023fe8fcb80)
+
+The fastest speed ever achieved by a human in space was during the return of the Apollo 10 mission in 1969, when the spacecraft re-entered Earth’s atmosphere at approximately 39,897 kilometers per hour (about 24,791 miles per hour), or roughly 11 km/s. This remains the highest speed relative to Earth that humans have ever traveled. While spacecraft like Voyager 1 and various probes have reached higher velocities, those are unmanned. For human travel, speed is constrained by a combination of life support limitations, structural integrity of spacecraft under acceleration, and the intense forces experienced during rapid acceleration or deceleration. To travel much faster—approaching even a small percentage of the speed of light (300,000 km/s)—would require not only revolutionary propulsion systems like fusion or antimatter engines, but also advanced shielding to protect against cosmic radiation and interstellar particles, which become extremely hazardous at relativistic speeds. Additionally, the acceleration would need to be gradual enough to avoid crushing occupants with excessive G-forces, making the engineering of such missions far more complex than simply building a faster engine.
+
+#
+
 [Mars](https://github.com/sourceduty/Mars)
 <br>
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
