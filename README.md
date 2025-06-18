@@ -14,6 +14,10 @@ Despite the promise, intergalactic travel introduces profound philosophical and 
 
 Ultimately, escaping to another galaxy before the Sun's demise or the Milky Way’s eventual merger with Andromeda may be less about survival and more about destiny. Such voyages would redefine what it means to be human, expanding our story from a planetary species to a cosmic one. Intergalactic migration would not just be about physical relocation—it would be about preserving memory, intelligence, and meaning across the void. To even contemplate such a journey is to imagine a future where we have solved not only the riddle of propulsion and space but also of cooperation, purpose, and resilience. In the long cosmic arc, intergalactic travel could become the next chapter in humanity’s epic—one written in the stars, sustained by knowledge, and driven by the enduring instinct to reach beyond the horizon.
 
+<br>
+
+![Thing 2](https://github.com/user-attachments/assets/8324df58-1366-48d3-9f9a-b178423b087a)
+
 #
 
 [Mars](https://github.com/sourceduty/Mars)
