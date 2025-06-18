@@ -16,7 +16,7 @@ Ultimately, escaping to another galaxy before the Sun's demise or the Milky Wayâ
 
 <br>
 
-![Thing 2](https://github.com/user-attachments/assets/8324df58-1366-48d3-9f9a-b178423b087a)
+![Thing 2](https://github.com/user-attachments/assets/b075ed5a-6e33-47fc-9f8d-4026f3559b69)
 
 #
 
