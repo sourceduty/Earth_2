@@ -80,7 +80,7 @@ This checklist outlines the essential scientific and technological milestones re
 
 #
 
-> [!NOTE]
+> [!CAUTION]
 > Intergalactic human travel is one of the hundreds of impossible things in science that's yet to become achievable.
 
 #
