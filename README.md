@@ -80,6 +80,11 @@ This checklist outlines the essential scientific and technological milestones re
 
 #
 
+> [!NOTE]
+> Intergalactic human travel is one of the hundreds of impossible things in science that's yet to become achievable.
+
+#
+
 [Mars](https://github.com/sourceduty/Mars)
 <br>
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
