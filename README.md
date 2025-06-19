@@ -37,6 +37,32 @@ Traveling faster than the speed of light remains, under current physical laws, f
 
 #
 
+| Category                  | Task                                                                 | Status |
+|--------------------------|----------------------------------------------------------------------|--------|
+| Fundamental Physics & Propulsion | Mastery of Special Relativity principles                              | ✅     |
+|                          | Development of propulsion systems capable of near-light speed         | ⬜     |
+|                          | Understanding and mitigation of relativistic time dilation effects    | ⬜     |
+|                          | Energy source with mass-energy conversion efficiency (E = mc²)        | ⬜     |
+| Spacecraft Engineering   | Shielding against interstellar dust and particles at relativistic speeds | ⬜     |
+|                          | Structural materials for relativistic kinetic impacts                 | ⬜     |
+|                          | Navigation systems compensating for relativistic distortions          | ⬜     |
+|                          | Onboard artificial gravity solutions                                  | ⬜     |
+| Life Support & Human Biology | Long-term closed-loop life support systems                           | ✅     |
+|                          | Radiation and cosmic ray protection                                   | ✅     |
+|                          | Biological understanding of time dilation effects                     | ⬜     |
+|                          | Cryogenic or hibernation technology                                   | ⬜     |
+| Communication Systems    | Near-instant communication method (quantum entanglement, etc.)        | ⬜     |
+|                          | Autonomous onboard AI for delayed communications                      | ✅     |
+|                          | Data encoding for relativistic transmission                           | ⬜     |
+| Mission Planning & Ethics | Destination habitability studies (exoplanets)                        | ✅     |
+|                          | Ethical framework for relativistic travel                             | ⬜     |
+|                          | Emergency deceleration/system failure protocols                       | ⬜     |
+|                          | Psychological readiness for time divergence and isolation             | ⬜     |
+
+This checklist outlines the essential scientific and technological milestones required for achieving light-speed space travel, a concept that currently lies beyond the bounds of known physics. It is divided into key categories such as propulsion, spacecraft engineering, life support, communication, and mission ethics. While humanity has made progress in areas like understanding special relativity, developing long-term life support systems, and conducting exoplanet habitability studies, most of the tasks—especially those involving relativistic travel, energy sources, and advanced shielding—remain theoretical. This table serves as a roadmap for future research and innovation, highlighting both our current capabilities and the formidable challenges that lie ahead in pushing the boundaries of interstellar exploration.
+
+#
+
 [Mars](https://github.com/sourceduty/Mars)
 <br>
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
