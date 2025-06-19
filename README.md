@@ -1,4 +1,4 @@
-![Endworld](https://github.com/user-attachments/assets/14e9ad2b-82d4-4783-b90d-f29b6cb6c7e1)
+![Earths](https://github.com/user-attachments/assets/6af71273-4ab9-4843-ad21-0111040e475c)
 ![Habitable](https://github.com/user-attachments/assets/6ac08306-9f0e-4e7e-9304-69347a0afb47)
 
 Earth's rotation is indeed slowing down, but at a far more measured pace than most realize—just about 1.7 milliseconds per century. Over immense timescales, this seemingly insignificant change adds up. Based on this rate, it would take approximately 5.08 billion years for Earth’s rotation to slow enough that a full day becomes 48 hours, effectively doubling its current duration. The notion that Earth could eventually "stop spinning" is more of a mathematical extrapolation than a likely outcome, especially since our Sun is expected to expand into a red giant and likely consume Earth in about 5 billion years—long before Earth's rotation grinds to a halt. Moreover, true cessation of rotation would be preceded by tidal locking, where Earth would always show the same face to the Moon or the Sun, similar to how the Moon already does with Earth.
@@ -89,6 +89,8 @@ This checklist outlines the essential scientific and technological milestones re
 
 Relativistic rockets are an advanced propulsion concept based on conventional physics that aim to reach speeds approaching a significant fraction of the speed of light, typically between 10% and 90% of light speed (denoted as c). At such high velocities, particularly around 90% c, these rockets could dramatically shorten interstellar travel times relative to human perception due to the effects of special relativity. For example, a journey to Alpha Centauri, the nearest star system at approximately 4.37 light-years away, would take around 4.85 years from the perspective of an observer on Earth. However, for travelers aboard the spacecraft, time would pass more slowly—a phenomenon known as time dilation—making the trip seem even shorter to those on board. Despite these theoretical advantages, relativistic travel presents formidable engineering and energy challenges, including the need for vast amounts of fuel, protection against high-speed particle collisions, and precise navigation over interstellar distances.
 
+#
+![Endworld](https://github.com/user-attachments/assets/14e9ad2b-82d4-4783-b90d-f29b6cb6c7e1)
 #
 
 [Mars](https://github.com/sourceduty/Mars)
