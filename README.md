@@ -85,6 +85,12 @@ This checklist outlines the essential scientific and technological milestones re
 
 #
 
+![1](https://github.com/user-attachments/assets/a44c4da5-00bc-4964-9d98-ac20445cbfe9)
+
+Relativistic rockets are an advanced propulsion concept based on conventional physics that aim to reach speeds approaching a significant fraction of the speed of light, typically between 10% and 90% of light speed (denoted as c). At such high velocities, particularly around 90% c, these rockets could dramatically shorten interstellar travel times relative to human perception due to the effects of special relativity. For example, a journey to Alpha Centauri, the nearest star system at approximately 4.37 light-years away, would take around 4.85 years from the perspective of an observer on Earth. However, for travelers aboard the spacecraft, time would pass more slowly—a phenomenon known as time dilation—making the trip seem even shorter to those on board. Despite these theoretical advantages, relativistic travel presents formidable engineering and energy challenges, including the need for vast amounts of fuel, protection against high-speed particle collisions, and precise navigation over interstellar distances.
+
+#
+
 [Mars](https://github.com/sourceduty/Mars)
 <br>
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
