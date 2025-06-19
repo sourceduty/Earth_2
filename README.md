@@ -108,3 +108,5 @@ Relativistic rockets are an advanced propulsion concept based on conventional ph
 [ISS Module](https://chatgpt.com/g/g-6776da708084819182e560df751a84fa-iss-module)
 <br>
 [Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
+<br>
+[Galactic Science](https://github.com/sourceduty/Galactic_Science)
