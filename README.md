@@ -112,3 +112,5 @@ Relativistic rockets are an advanced propulsion concept based on conventional ph
 [Galactic Science](https://github.com/sourceduty/Galactic_Science)
 <br>
 [Spaceflight Propulsion](https://chatgpt.com/g/g-685b01092acc81919ccba5c04ace7107-spaceflight-propulsion)
+<br>
+[Quantum Engine](https://github.com/sourceduty/Quantum_Engine)
